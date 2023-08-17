@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Ruby Wrapper for valorant-api.com"
   spec.description = "Ruby Wrapper for valorant-api.com"
-  spec.homepage = "Ruby Wrapper for valorant-api.com"
+  spec.homepage = "https://valorant-api.com"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
